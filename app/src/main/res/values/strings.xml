@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Strange Things</string>
+
+    <string name="share_this_file">Share This File</string>
+
+    <string name="searchbar_list_all">List All</string>
+    <string name="searchbar_hint">Type here to filter</string>
+    <string name="searchbar_clear">Clear</string>
+
+    <string name="share_button">Share Button</string>
+
+    <string name="status_checking_updates">Checking for updates</string>
+    <string name="status_no_updates">No updates available</string>
+    <string name="status_downloading_updates">Downloading update. {0} new media files</string>
+    <string name="status_downloading_progress">Downloaded {0}%. {1}/{2}</string>
+    <string name="status_extracting">Extracting update</string>
+    <string name="status_extracting_completed">Extracting completed</string>
+
+    <string name="powered_by" translatable="false">Atiksoftware Corporation</string>
+
+    <string name="def_text">Text</string>
+</resources>

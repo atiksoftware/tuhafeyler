@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tuhaf Şeyler</string>
+
+    <string name="share_this_file">Bu dosyayı paylaş</string>
+
+    <string name="searchbar_list_all">Tümünü Göster</string>
+    <string name="searchbar_hint">Filtrelemek için buraya yazın</string>
+    <string name="searchbar_clear">Temizle</string>
+
+    <string name="share_button">Paylaş Butonu</string>
+
+    <string name="status_checking_updates">Güncellemeleri kontrol ediliyor</string>
+    <string name="status_no_updates">Güncelleme yok</string>
+    <string name="status_downloading_updates">Güncelleme indiriliyor. {0} yeni medya dosyası</string>
+    <string name="status_downloading_progress">{0}%. {1}/{2} indirildi</string>
+    <string name="status_extracting">Güncelleme çıkarılıyor</string>
+    <string name="status_extracting_completed">Çıkarma tamamlandı</string>
+
+    <string name="powered_by" translatable="false">Atiksoftware Corporation</string>
+
+    <string name="def_text">Text</string>
+</resources>
